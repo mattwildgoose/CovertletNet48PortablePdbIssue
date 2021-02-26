@@ -1,5 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NetFrameworkFullLibrary;
+using NetFrameworkCsPortableLibrary;
 using NetFrameworkPortableLibrary;
 using NetStandardPortableLibrary;
 
@@ -17,9 +17,9 @@ namespace Tests
         }
         
         [TestMethod]
-        public void FrameworkFullMultiplier_Multiplies()
+        public void FrameworkCsMultiplier_Multiplies()
         {
-            var result = FrameworkFullMultiplier.Multiply(2, 4);
+            var result = FrameworkCsMultiplier.Multiply(2, 4);
 
             Assert.AreEqual(8, result);
         }

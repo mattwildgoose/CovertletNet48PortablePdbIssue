@@ -32,7 +32,7 @@
     <PackageReference Include="MSTest.TestFramework" Version="1.4.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NetFrameworkFullLibrary\NetFrameworkFullLibrary.vbproj" />
+    <ProjectReference Include="..\NetFrameworkCsPortableLibrary\NetFrameworkCsPortableLibrary.csproj" />
     <ProjectReference Include="..\NetFrameworkPortableLibrary\NetFrameworkPortableLibrary.vbproj" />
     <ProjectReference Include="..\NetStandardPortableLibrary\NetStandardPortableLibrary.vbproj" />
   </ItemGroup>
