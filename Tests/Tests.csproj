@@ -34,6 +34,5 @@
   <ItemGroup>
     <ProjectReference Include="..\NetFrameworkCsPortableLibrary\NetFrameworkCsPortableLibrary.csproj" />
     <ProjectReference Include="..\NetFrameworkPortableLibrary\NetFrameworkPortableLibrary.vbproj" />
-    <ProjectReference Include="..\NetStandardPortableLibrary\NetStandardPortableLibrary.vbproj" />
   </ItemGroup>
 </Project>
