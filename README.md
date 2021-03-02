@@ -5,6 +5,7 @@ This repository contains the necessary projects in order to reproduce an issue t
 This uses the coverlet.msbuild package version 3.0.3.
 
 ## Steps to Reproduce
+Having compiled the project in Debug configuration
 - Open a command prompt
 - Navigate to the repository root
 - Run the following command
